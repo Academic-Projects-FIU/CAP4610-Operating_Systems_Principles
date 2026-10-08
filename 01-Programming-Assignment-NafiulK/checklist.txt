@@ -1,0 +1,47 @@
+COP 4610 Project 1 - Shared Memory
+Name: Nafiul Khalid
+Username: nkhal014
+PID: 6436457
+
+
+Submission TO-DO:
+
+TO-DO LIST
+[x] Write Shared_memory.c
+[x] Compile the program with gcc on the COP 4610 Ocelot VM
+[x] Run the program successfully on Ocelot
+[x] Fix the shared-memory key conflict
+[x] Run the program multiple times
+[x] Save experimental output in results.txt
+[x] Organize and analyze the experimental results
+[x] Write SharedMemory.md with compile and run instructions
+[x] Write the main report using the IEEE LaTeX template
+[x] Compile the LaTeX report successfully
+[x] Download the final report PDF
+[x] Keep the complete LaTeX source files
+[x] Complete AI Usage Documentation PDF
+[x] Place all required files together in a folder. Name it appropriately.
+[x] Zip the submission folder
+[ ] Submit the ZIP through Canvas
+[ ] Prepare for the in-person code demo
+
+GRADING CRITERIA CHECKLIST
+[x] Source code compiles
+[x] Source code runs
+[x] Four child processes are created
+[x] Processes cooperate through shared memory
+[x] Children modify the shared variable
+[x] Parent waits for all children to exit
+[x] Parent releases shared memory before ending
+[x] Children print their results
+[x] Parent prints child exit information
+[x] Source code contains comments
+[x] Name and username are included at the top of the source code
+[x] Main report is written
+[x] Main report contains quantitative data and analysis
+[x] Main report is written in LaTeX using the IEEE template
+[x] LaTeX source compiles and reproduces the submitted PDF
+[x] AI Usage Documentation PDF is included
+[x] All required files are zipped together
+[ ] Canvas submission is completed
+[ ] In-person code demo is completed

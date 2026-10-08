@@ -1,0 +1,90 @@
+From Process 1: counter = 115468.
+From Process 2: counter = 248588.
+From Process 4: counter = 275468.
+From Process 3: counter = 389926.
+Child with ID: 1526457 has just exited.
+Child with ID: 1526458 has just exited.
+Child with ID: 1526460 has just exited.
+Child with ID: 1526459 has just exited.
+End of Program.
+From Process 1: counter = 168085.
+From Process 2: counter = 186536.
+From Process 3: counter = 239096.
+From Process 4: counter = 596677.
+Child with ID: 1526462 has just exited.
+Child with ID: 1526463 has just exited.
+Child with ID: 1526464 has just exited.
+Child with ID: 1526465 has just exited.
+End of Program.
+From Process 1: counter = 108236.
+From Process 2: counter = 212214.
+From Process 3: counter = 375091.
+From Process 4: counter = 549640.
+Child with ID: 1526467 has just exited.
+Child with ID: 1526468 has just exited.
+Child with ID: 1526469 has just exited.
+Child with ID: 1526470 has just exited.
+End of Program.
+From Process 1: counter = 104346.
+From Process 2: counter = 297876.
+From Process 3: counter = 319005.
+From Process 4: counter = 544641.
+Child with ID: 1526472 has just exited.
+Child with ID: 1526473 has just exited.
+Child with ID: 1526474 has just exited.
+Child with ID: 1526475 has just exited.
+End of Program.
+From Process 1: counter = 135285.
+From Process 3: counter = 171759.
+From Process 2: counter = 227534.
+From Process 4: counter = 563672.
+Child with ID: 1526477 has just exited.
+Child with ID: 1526479 has just exited.
+Child with ID: 1526478 has just exited.
+Child with ID: 1526480 has just exited.
+End of Program.
+From Process 1: counter = 105888.
+From Process 2: counter = 190256.
+From Process 3: counter = 436553.
+From Process 4: counter = 521639.
+Child with ID: 1526482 has just exited.
+Child with ID: 1526483 has just exited.
+Child with ID: 1526484 has just exited.
+Child with ID: 1526485 has just exited.
+End of Program.
+From Process 1: counter = 86163.
+From Process 2: counter = 118422.
+From Process 3: counter = 343251.
+From Process 4: counter = 540917.
+Child with ID: 1526487 has just exited.
+Child with ID: 1526488 has just exited.
+Child with ID: 1526489 has just exited.
+Child with ID: 1526490 has just exited.
+End of Program.
+From Process 1: counter = 96822.
+From Process 4: counter = 253612.
+From Process 2: counter = 251319.
+From Process 3: counter = 358731.
+Child with ID: 1526492 has just exited.
+Child with ID: 1526493 has just exited.
+Child with ID: 1526494 has just exited.
+Child with ID: 1526495 has just exited.
+End of Program.
+From Process 1: counter = 51909.
+From Process 4: counter = 198546.
+From Process 3: counter = 292316.
+From Process 2: counter = 334808.
+Child with ID: 1526497 has just exited.
+Child with ID: 1526500 has just exited.
+Child with ID: 1526498 has just exited.
+Child with ID: 1526499 has just exited.
+End of Program.
+From Process 1: counter = 111226.
+From Process 2: counter = 216119.
+From Process 3: counter = 355260.
+From Process 4: counter = 522893.
+Child with ID: 1526502 has just exited.
+Child with ID: 1526503 has just exited.
+Child with ID: 1526504 has just exited.
+Child with ID: 1526505 has just exited.
+End of Program.
